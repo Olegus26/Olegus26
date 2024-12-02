@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Привет! Я Unity Developer !</h1>
+<h1 align="center">Привет! Я Unity Developer</h1>
 
 ###
 
